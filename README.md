@@ -18,7 +18,7 @@ Supports servers running in [screen](https://en.wikipedia.org/wiki/GNU_Screen), 
 
 ## Install
 ```bash
-wget https://github.com/nicolaschan/minecraft-backup/releases/latest/download/backup.sh
+wget https://github.com/MozerBYU/minecraft-backup-script/latest/download/backup.sh
 chmod +x backup.sh
 ```
 
